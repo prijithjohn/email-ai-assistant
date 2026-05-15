@@ -1,4 +1,4 @@
-# 📧 AI Email Assistant
+# 📧 FlowMail
 
 ### AI-Powered Email Reply Generator | Full Stack + Chrome Extension
 
