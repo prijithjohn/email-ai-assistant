@@ -349,7 +349,13 @@ Full Stack Developer passionate about:
 
 # 📬 Connect With Me
 
+<p align="left">
+  <a href="https://github.com/prijithjohn">GitHub</a> •
+  <a href="https://www.linkedin.com/in/prijith-john-dev">LinkedIn</a>
+</p>
+
 ---
+
 
 # ⭐ Support
 
